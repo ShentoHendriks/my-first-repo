@@ -1,2 +1,4 @@
 # my-first-repo
-<img src="img/shento.jpg">
+<a href="http://zuyd.nl">
+  <img src="img/shento.jpg">
+</a>
