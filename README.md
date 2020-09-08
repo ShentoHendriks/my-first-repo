@@ -1,2 +1,2 @@
 # my-first-repo
-<src="img/shento.png" img>
+<img src="img/shento.png"/>
